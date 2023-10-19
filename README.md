@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Manuel-Savyak
+- 👀 I’m interested in coding hardware
+- 🌱 I’m currently learning arduino IDE coding
